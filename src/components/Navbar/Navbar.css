@@ -1,0 +1,39 @@
+
+.navbar_wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+  width: 351px;
+  height: 124px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav_icon {
+  width: 351px;
+  height: 124px;
+  background-color: #002aff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.nav_icon > p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+
+}
+
+
+.overlay_wrapper{position: absolute;
+    width: 877px;
+    height: 403px;
+    left: 0px;
+    top: 583px;
+    
+    background: #FFFFFF;}
